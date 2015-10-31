@@ -87,7 +87,7 @@ I developed a simple 3D modeling program for my undergraduate senior project at 
 
 ##### 3D Terrain Generation Tool (Hobby Project) (2005-11 to 2006-08)
 
-I built a 3D terrain generation tool, as an extracurricular hobby project, using DirectX and C#. The terrain generator featured a visual interface to interact with terrain, a variety of display options to change how the terrain is displayed, and a plug-in system allowing third-party developers to extend the tool. The plug-in system could be used for many things, such as applying vertex and texture modification algorithms, exporting and importing project data into different formats, or for external scripting capabilities (leveraged to support Lua scripting). This was a solo development effort inspired by my interests in 3D modeling.
+I built a 3D terrain generation tool, as an extracurricular hobby project, using DirectX and C#. The terrain generator featured a visual interface to interact with terrain, a variety of display options to change how the terrain is displayed, and a plug-in system allowing third-party developers to extend the tool. The plug-in system could be used for many things, such as applying vertex and texture modification algorithms, exporting and importing project data into different formats, or for external scripting capabilities (leveraged to support Lua scripting). This was a solo development effort inspired by my interests in 3D modeling. See [this github repo](https://github.com/stormont/terraingine).
 
 ##### Team Lead - Software Junior Project (2005-01 to 2005-06)
 
