@@ -2,7 +2,7 @@
 
 ### Devan Stormont
 
-Email: stormont@gmail.com
+Email: [stormont@gmail.com](mailto:stormont@gmail.com)
 
 US residency (citizen)
 
