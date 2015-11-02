@@ -9,6 +9,7 @@ US residency (citizen)
 ## Education
 
 [Oregon Institute of Technology](http://www.oit.edu) (OIT, or Oregon Tech) in Klamath Falls, Oregon
+
 Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
 
 ### Degrees:
