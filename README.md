@@ -50,7 +50,7 @@ I was the technical team lead of our primary OEM bundle product at PC-Doctor. I 
 
 ##### Developed Android app “Weather Route” at Voyage Games LLC (2013-01 to present)
 
-I created the Android app “Weather Route” (under the self-licensed moniker Voyage Games LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The server backend on AWS is now written entirely in Haskell, while the front end is a Java Android client written around an AngularJS web app; the original iteration was written solely in Java on both the client and the server. The app currently has over 10,000 downloads and consistently averages greater than 11% weekly user growth through two consecutive winters.
+I created the Android app [Weather Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Games LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The server backend on AWS is now written entirely in Haskell, while the front end is a Java Android client written around an AngularJS web app; the original iteration was written solely in Java on both the client and the server. The app currently has over 10,000 downloads and consistently averages greater than 11% weekly user growth through two consecutive winters.
 
 ##### Software Engineer at PC-Doctor, Inc. (2008-05 to 2013-05)
 
