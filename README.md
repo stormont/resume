@@ -63,11 +63,13 @@ I was the technical team lead of our primary OEM bundle products at PC-Doctor. I
 
 I created the Android app [Weather Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Games LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The server backend on AWS is now written entirely in Haskell, while the front end is a Java Android client written around an AngularJS web app; the original iteration was written solely in Java on both the client and the server. The app currently has over 10,000 downloads and consistently averages greater than 11% weekly user growth through two consecutive winters.
 
+As part of this development, I released a simple [open-source package on Hackage](http://hackage.haskell.org/package/forecast-io) for interfacing with the third-party Forecast.io weather service.
+
 ##### Software Engineer at [PC-Doctor, Inc.](http://www.pc-doctor.com) (2008-05 to 2013-05)
 
 I was primarily involved in developing diagnostic software for PC hardware using C, C++, and x86 Assembly, with a strong focus on interfacing with system devices and the underlying OS. Quality, robust software was a key goal, as false positives were harmful to the bottom line of our customers. The code modules that I worked on in this role were deployed as elements to most of the products released by the company to millions of end users.
 
-##### Firmware Engineer at International Game Technology (2007-04 to 2008-05)
+##### Firmware Engineer at [International Game Technology](http://www.igt.com/) (2007-04 to 2008-05)
 
 I developed the software for slot machine games on a gaming platform based on i960 hardware and the C programming language. Development focused on tying various game resources together (graphics, audio, etc.) and verifying that the empirical results of game play adhered to statistical payouts.
 
@@ -75,15 +77,15 @@ I developed the software for slot machine games on a gaming platform based on i9
 
 I worked with a non-profit organization, The Life Center, to develop a website using PHP with a MySQL back-end for presenting information to the public and as the primary portal for conducting TLC’s business activities. I was the web architect and developer for the planning, developing, and maintenance of the site. I also served on the Board of Advisors as the primary technology/web advisor.
 
-##### Engineering Intern at International Game Technology (2006-06 to 2006-09)
+##### Engineering Intern at [International Game Technology](http://www.igt.com/) (2006-06 to 2006-09)
 
 I was an intern with the Network Application & Systems department at IGT.  I developed an interactive web system for tracking Discretionary Time Off (DTO) of employees from several engineering departments, including checking who was out of the office, requesting time off from an employee’s supervisor(s) and supervisor tools for approving and denying DTO. My duties included complete architecture, development, and deployment of the system.
 
-##### IT Intern at Harry & David Operations (2005-06 to 2005-09)
+##### IT Intern at [Harry & David Operations](http://www.harryanddavid.com/) (2005-06 to 2005-09)
 
 I was a developer for the redesign of the IT division’s intranet website within the Harry & David corporation. These duties included project design, documentation, implementation, and presentation. I then joined a team working on the IT division’s internal financial system, which was used to manage projects, resources, and IT financial budgets. My duties included redesign of the site look and feel, implementation of new data reports, bug fixes, and leading the conversion of the site from ASP to ASP.NET.
 
-##### Webmaster at Oregon Tech’s CSET Department (2005-01 to 2007-01)
+##### Webmaster at [Oregon Tech’s CSET Department](http://www.cset.oit.edu/) (2005-01 to 2007-01)
 
 I was the webmaster and lead developer for Oregon Tech’s Computer Systems Engineering Technology department website. My duties involved site maintenance, development using ASP.NET and MS SQL Server to add new features, integrating content, website documentation, and supervising and training other student workers. I was also a team leader of one of the student teams that developed the initial site architecture, leading up to the webmaster position.
 
