@@ -34,27 +34,38 @@ Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
 * 2015 participation as a sponsor of the local [NASA Space Apps Challenge](http://spaceappsreno.org/) event.
 * Monthly participant of [DevOps Reno](http://www.meetup.com/devopsreno/) meetup group.
 
+## Language Experience
+
+Accumulative experience working with languages across different industry (as in "production/released code") roles:
+
+* C++: 5 years of experience.
+* C#: 4 years of experience.
+* C: 3 years of experience.
+* Haskell: 2 years of experience.
+* Java (Android): 2 years of experience.
+* ASM: 6 months of experience.
+
 ## Work Experience
 
-##### Manager of Software Development at PC-Doctor, Inc. (2015-05 to present)
+##### Manager of Software Development at [PC-Doctor, Inc.](http://www.pc-doctor.com) (2015-05 to present)
 
 My role as a manager of software development is an extension of my pre-existing role as a technical lead of the bundle OEM team (“Senior Software Engineer and Team Lead at PC-Doctor, Inc.”). In addition to my prior role, my responsibilities include hiring, technical planning at a staff level for driving corporate objectives, and establishing roadmaps for that development.
 
-##### “Teach Me Something” Developer Talks at PC-Doctor, Inc. (2014-06 to present)
+##### “Teach Me Something” Developer Talks at [PC-Doctor, Inc.](http://www.pc-doctor.com) (2014-06 to present)
 
 I kicked off and continue to lead a weekly training series to help developers extend their skill sets. I present some of the talks, which typically emphasize functional programming topics, distributed computing, or automation. The primary value has been in creating a fun, educational forum for debate within the company.
 
-##### Senior Software Engineer and Team Lead at PC-Doctor, Inc. (2013-05 to 2015-05)
+##### Senior Software Engineer and Team Lead at [PC-Doctor, Inc.](http://www.pc-doctor.com) (2013-05 to 2015-05)
 
-I was the technical team lead of our primary OEM bundle product at PC-Doctor. I was responsible for requirements planning, development, and was an active facilitator of communication. Product development on this team largely used C#. Our application was deployed to tens of millions of daily users to run hardware diagnostics, collect data, supported “hot” updates, and was actively utilized for deploying updates to third-party software. My team was also responsible for running our internal build automation pipeline, primarily using Ant and Jenkins.
+I was the technical team lead of our primary OEM bundle products at PC-Doctor. I was responsible for requirements planning, development, and was an active facilitator of communication. Product development on this team largely used C#. Our application was deployed to tens of millions of daily users to run hardware diagnostics, collect data, supported “hot” updates, and was actively utilized for deploying updates to third-party software. My team was also responsible for running our internal build automation pipeline, primarily using Ant and Jenkins. We released a variety of products under PC-Doctor branding (Toolbox, Service Center, PC-Doctor for Windows), as well as products released under OEM branding. Active installs to maintain were numbered in the tens of millions.
 
 ##### Developed Android app “Weather Route” at Voyage Games LLC (2013-01 to present)
 
 I created the Android app [Weather Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Games LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The server backend on AWS is now written entirely in Haskell, while the front end is a Java Android client written around an AngularJS web app; the original iteration was written solely in Java on both the client and the server. The app currently has over 10,000 downloads and consistently averages greater than 11% weekly user growth through two consecutive winters.
 
-##### Software Engineer at PC-Doctor, Inc. (2008-05 to 2013-05)
+##### Software Engineer at [PC-Doctor, Inc.](http://www.pc-doctor.com) (2008-05 to 2013-05)
 
-I was primarily involved in developing diagnostic software for PC hardware using C, C++, and x86 Assembly, with a strong focus on interfacing with system devices and the underlying OS. Quality, robust software was a key goal, as false positives were harmful to the bottom line of our customers.
+I was primarily involved in developing diagnostic software for PC hardware using C, C++, and x86 Assembly, with a strong focus on interfacing with system devices and the underlying OS. Quality, robust software was a key goal, as false positives were harmful to the bottom line of our customers. The code modules that I worked on in this role were deployed as elements to most of the products released by the company to millions of end users.
 
 ##### Firmware Engineer at International Game Technology (2007-04 to 2008-05)
 
