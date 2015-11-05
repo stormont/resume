@@ -30,6 +30,8 @@ Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
 
 ### Outreach:
 
+* Member of the Industrial Advisory Board for Oregon Tech's Computer Systems Engineering Department.
+* Account administrator for the [official Haskell wiki](https://wiki.haskell.org/Haskell).
 * 2013, 2014 participation in the [NASA Space Apps Challenge](http://spaceappsreno.org/) (annual 48-hour hackathon).
 * 2015 participation as a sponsor of the local [NASA Space Apps Challenge](http://spaceappsreno.org/) event.
 * Monthly participant of [DevOps Reno](http://www.meetup.com/devopsreno/) meetup group.
