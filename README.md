@@ -45,7 +45,11 @@ Accumulative experience working with languages across different industry (as in 
 * C: 3 years of experience.
 * Haskell: 2 years of experience.
 * Java (Android): 2 years of experience.
+* JavaScript (AngularJS): 1 year of experience.
+* Databases (MS SQL, SQLite): 1 year of experience.
 * ASM: 6 months of experience.
+
+Non-professional experience with: Python, Node JS, Docker, Elm.
 
 ## Work Experience
 
