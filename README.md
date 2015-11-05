@@ -49,7 +49,7 @@ Accumulative experience working with languages across different industry (as in 
 * Databases (MS SQL, SQLite): 1 year of experience.
 * ASM: 6 months of experience.
 
-Non-professional experience with: Python, Node JS, Docker, Elm.
+Non-professional experience with: Python, Node JS, Docker, Elm, microcontrollers.
 
 ## Work Experience
 
