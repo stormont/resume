@@ -55,7 +55,7 @@ Accumulative experience working with languages across different industry (as in 
 * Java (Android): 3 years of experience.
 * Elm: 2 years of experience.
 * Haskell: 2 years of experience.
-* Python: 1 year of experience.
+* Python: 1 year of experience (primarily focused on machine learning/artificial intelligence).
 * JavaScript (AngularJS): 1 year of experience.
 * Databases (MS SQL, SQLite): 1 year of experience.
 * ASM: 6 months of experience.
