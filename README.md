@@ -59,6 +59,7 @@ Accumulative experience working with languages across different industry (as in 
 * JavaScript (AngularJS): 1 year of experience.
 * Databases (MS SQL, SQLite): 1 year of experience.
 * ASM: 6 months of experience.
+* Bluetooth Low Energy and ANT+ fitness devices: 1 year of experience.
 
 Non-professional experience with: Node JS, Docker, microcontrollers.
 
