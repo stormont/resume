@@ -117,11 +117,11 @@ I was the webmaster and lead developer for Oregon Tech's Computer Systems Engine
 
 #### Georgia Tech Specialization in Computational Perception/Robotics (2016 to present)
 
-* CS-7641: Machine Learning with Dr. Isbell (grade: A)
-* CS-7646: ML for Trading with Dr. Tucker Balch (grade: B)
-* CS-6601: Artificial Intelligence with Dr. Thad Starner (grade: A)
-* CS-8803: AI for Robotics with Chris Pryby and Dr. Sebastian Thrun (grade: B)
-* CS-6750: Human-Computer Interaction with Dr. David Joyner (grade: A)
+* [CS-7641: Machine Learning](http://www.omscs.gatech.edu/cs-7641-machine-learning) with Dr. Charles Isbell and Dr. Michael Littman (grade: A)
+* [CS-7646: ML for Trading](http://www.omscs.gatech.edu/cs-7646-machine-learning-trading) with Dr. Tucker Balch (grade: B)
+* [CS-6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence) with Dr. Thad Starner (grade: A)
+* [CS-8803: AI for Robotics](http://www.omscs.gatech.edu/cs-8803-artificial-intelligence-robotics) with Chris Pryby and Dr. Sebastian Thrun (grade: B)
+* [CS-6750: Human-Computer Interaction](http://www.omscs.gatech.edu/cs-6750-human-computer-interaction) with Dr. David Joyner (grade: A)
 
 #### Distributed Financial Analysis (Hobby Project) (2010 to present)
 
