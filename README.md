@@ -32,10 +32,10 @@ Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
 
 ### Personal:
 
-* StackOverflow: http://careers.stackoverflow.com/stormont
-* LinkedIn:  http://www.linkedin.com/pub/devan-stormont/15/23b/33a/en
-* GitHub:  https://github.com/stormont
-* Blog:  http://voyageintech.wordpress.com
+* [StackOverflow](http://careers.stackoverflow.com/stormont)
+* [LinkedIn](http://www.linkedin.com/pub/devan-stormont/15/23b/33a/en)
+* [GitHub](https://github.com/stormont)
+* [Blog](http://voyageintech.wordpress.com)
 
 ### Outreach:
 
