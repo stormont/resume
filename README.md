@@ -15,7 +15,7 @@ Ongoing, expected graduation Fall 2018 (current GPA 3.6)
 #### Degrees:
 
 * M.S. in Computer Science
-* Specialization in Computational Perception/Robotics
+* Specialization in Machine Learning
 
 ### [Oregon Institute of Technology](http://www.oit.edu) (OIT, or Oregon Tech):
 
