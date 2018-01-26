@@ -10,7 +10,7 @@ US residency (citizen)
 
 ### [Georgia Institute of Technology](http://www.gatech.edu):
 
-Ongoing, expected graduation Fall 2018 (current GPA 3.6)
+Ongoing, expected graduation Fall 2018 (current GPA 3.57)
 
 #### Degrees:
 
@@ -50,24 +50,24 @@ Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
 Accumulative experience working with languages across different industry (as in "production/released code") roles:
 
 * C++: 5 years of experience.
-* C#: 6 years of experience.
+* C#: 8 years of experience.
 * C: 3 years of experience.
 * Java (Android): 3 years of experience.
-* Elm: 2 years of experience.
+* Elm: 3 years of experience.
 * Haskell: 2 years of experience.
-* Python: 1 year of experience (primarily focused on machine learning/artificial intelligence).
+* Python: 2 years of experience (primarily focused on machine learning/artificial intelligence).
 * JavaScript (AngularJS): 1 year of experience.
 * Databases (MS SQL, SQLite): 1 year of experience.
 * ASM: 6 months of experience.
-* Bluetooth Low Energy and ANT+ fitness devices: 1 year of experience.
+* Bluetooth Low Energy and ANT+ fitness devices: 2 years of experience.
 
 Non-professional experience with: Node JS, Docker, microcontrollers.
 
 ## Work Experience
 
-#### Senior Software Engineer at [Trainer Road](https://www.trainerroad.com) (2015-12 to present)
+#### Senior Software Engineer at [Trainer Road](https://www.trainerroad.com) (2015-12 to 2018-01)
 
-I work as a member of a small team developing client apps across most major consumer platforms (iOS, Android, Windows, Mac). My focus is on everything from UI to lower-level services like cloud synchronization, local database interaction, and connecting to/interacting with Bluetooth and ANT+ fitness devices. Most of the code is C#, while some of the fitness device code is C/C++, with a bit of Objective C for the iOS app.
+I work as a member of a small team developing client apps across most major consumer platforms (iOS, Android, Windows, Mac). My focus is on everything from UI to lower-level services like cloud synchronization, local database interaction, and connecting to/interacting with Bluetooth and ANT+ fitness devices. Most of the code is C#, while some of the fitness device code is C/C++, with a bit of Objective-C for the iOS app.
 
 This team is heavily focused on independent learners and workers. Individuals are expected to produce rapid, high-quality work, while also not being bashful to reach out to others for assistance when necessary.
 
@@ -85,7 +85,9 @@ I was the technical team lead of our primary OEM bundle products at PC-Doctor. I
 
 #### Developed Android app "Weather Route" at Voyage Studios LLC (2013-01 to present)
 
-I created the Android app [Weather Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Studios LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The server backend on AWS is now written entirely in Haskell, while the front end is a Java Android client written around an Elm web app; the original iteration was written solely in Java on both the client and the server. The app currently has over 10,000 downloads and consistently averages greater than 11% weekly user growth through two consecutive winters.
+I created the Android app [Weather Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Studios LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The server backend on AWS is now written entirely in Haskell, while the front end is a Java Android client written around an Elm web app; the original iteration was written solely in Java on both the client and the server. The app currently has over 50,000 downloads and consistently averages greater than 11% weekly user growth through four consecutive winters.
+
+An iOS version was launched in 2016 (named differently, due to a conflict in the App Store): [Highway Weather](https://itunes.apple.com/us/app/highway-weather/id1289520390?ls=1&mt=8)
 
 As part of this development, I released a simple [open-source package on Hackage](http://hackage.haskell.org/package/forecast-io) for interfacing with the third-party Forecast.io weather service.
 
@@ -122,6 +124,10 @@ I was the webmaster and lead developer for Oregon Tech's Computer Systems Engine
 * [CS-6601: Artificial Intelligence](http://www.omscs.gatech.edu/cs-6601-artificial-intelligence) with Dr. Thad Starner (grade: A)
 * [CS-8803: AI for Robotics](http://www.omscs.gatech.edu/cs-8803-artificial-intelligence-robotics) with Chris Pryby and Dr. Sebastian Thrun (grade: B)
 * [CS-6750: Human-Computer Interaction](http://www.omscs.gatech.edu/cs-6750-human-computer-interaction) with Dr. David Joyner (grade: A)
+* [CS-6475: Computational Photography](http://www.omscs.gatech.edu/cs-6475-computational-photography) with Dr. Irfan Issa (grade: B)
+* [CS-6476: Computer Vision](http://www.omscs.gatech.edu/cs-6476-computer-vision) with Dr. Irfan Issa (grade: A)
+
+Unfortunately, I'm unable to publicly share _most_ of my work for these classes due to adherence to the university Honor Code, but please ask for demonstrations.
 
 #### Distributed Financial Analysis (Hobby Project) (2010 to present)
 
