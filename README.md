@@ -32,6 +32,12 @@ Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
 * Minor in Applied Mathematics
 * Minor in Business
 
+### Certifications
+
+Deep Learning Nanodegree by Udacity (April 2018).
+
+Machine Learning by Stanford University on Coursera with Andrew Ng (March 2016).
+
 ## Social
 
 ### Personal:
