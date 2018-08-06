@@ -45,7 +45,7 @@ Machine Learning by Stanford University on Coursera with Andrew Ng (March 2016)
 * [StackOverflow](https://careers.stackoverflow.com/stormont)
 * [LinkedIn](https://www.linkedin.com/in/devan-stormont/)
 * [GitHub](https://github.com/stormont)
-* [Blog](https://voyageintech.wordpress.com)
+* [Blog](https://voyageintech.com)
 
 ### Outreach:
 
