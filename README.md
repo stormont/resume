@@ -85,6 +85,10 @@ I worked as a member of a small team developing client apps across most major co
 
 This team was heavily focused on independent learners and workers. Individuals were expected to produce rapid, high-quality work, while also not being bashful to reach out to others for assistance when necessary.
 
+#### Member of Industrial Advisory Board at [Oregon Institute of Technology](https://www.oit.edu) (2015-09 to present)
+
+Board member of the IAB for Oregon Tech's Computer Systems Engineering Department. The IAB is the CSET department's conduit to industry, and is a significant contributor to the health and vitality of the three computer/software engineering programs. The IAB provides advice and counsel in the areas of program accreditation, curriculum content, laboratory resources review, career guidance, placement activities, and marketing the programs.
+
 #### Manager of Software Development at [PC-Doctor, Inc.](https://www.pc-doctor.com) (2015-05 to 2015-11)
 
 My role as a manager of software development was an extension of my pre-existing role as a technical lead of the bundle OEM team ('Senior Software Engineer and Team Lead at PC-Doctor, Inc.'). In addition to my prior role, my responsibilities included hiring, technical planning at a staff level for driving corporate objectives, and establishing roadmaps for that development.
