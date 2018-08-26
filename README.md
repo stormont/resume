@@ -4,10 +4,8 @@
 
 | Contact | Social |
 | --- |:---:|
-| **Email:** [stormont@gmail.com](mailto:stormont@gmail.com) | [StackOverflow](https://careers.stackoverflow.com/stormont) |
-| _US residency (citizen)_ | [LinkedIn](https://www.linkedin.com/in/devan-stormont/) |
-|  | [GitHub](https://github.com/stormont) |
-|  | [Blog](https://voyageintech.com) |
+| **Email:** [stormont@gmail.com](mailto:stormont@gmail.com) | [StackOverflow](https://careers.stackoverflow.com/stormont), [GitHub](https://github.com/stormont) |
+| _US residency (citizen)_ | [LinkedIn](https://www.linkedin.com/in/devan-stormont/), [Blog](https://voyageintech.com) |
 
 ## Highlights
 
