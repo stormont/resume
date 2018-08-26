@@ -2,13 +2,33 @@
 
 ### Devan Stormont
 
-Email: [stormont@gmail.com](mailto:stormont@gmail.com)
+| Contact | Social |
+| --- |:---:|
+| **Email:** [stormont@gmail.com](mailto:stormont@gmail.com) | [StackOverflow](https://careers.stackoverflow.com/stormont) |
+| _US residency (citizen)_ | [LinkedIn](https://www.linkedin.com/in/devan-stormont/) |
+|  | [GitHub](https://github.com/stormont) |
+|  | [Blog](https://voyageintech.com) |
 
-US residency (citizen)
+## Highlights
 
-## Intent
+### Experience
 
-To pursue an intellectually challenging and rewarding role in machine/reinforcement learning, artificial intelligence, and autonomous distributed systems.
+* 13+ years professional experience, with small team lead/manager experience
+* M.S. in Computer Science, w/ Specialization in Machine Learning from Georgia Tech _(pending, December 2018)_
+* Industry advisory board member for Oregon Tech's computing department (CSET)
+* Prior lead developer for desktop application deployed to 10M+ computing systems
+* Self-released app with 10k+ users and consistently > 2x YoY revenue growth
+* Led intra-company learning development talks for 18 months
+
+### Technical
+
+* Machine learning (particularly reinforcement learning)
+* Functional languages: Elm, Haskell, Python
+* OOP languages: C++, C#, Java
+* Distributed computing
+* Mobile development
+* BlueTooth and ANT+ device interoperability
+* OS kernel-level development (C and Assembler)
 
 ## Education
 
@@ -34,20 +54,10 @@ Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
 
 ### Certifications
 
-Deep Learning Nanodegree by Udacity (April 2018)
+* Deep Learning Nanodegree by Udacity (April 2018)
+* Machine Learning by Stanford University on Coursera with Andrew Ng (March 2016)
 
-Machine Learning by Stanford University on Coursera with Andrew Ng (March 2016)
-
-## Social
-
-### Personal:
-
-* [StackOverflow](https://careers.stackoverflow.com/stormont)
-* [LinkedIn](https://www.linkedin.com/in/devan-stormont/)
-* [GitHub](https://github.com/stormont)
-* [Blog](https://voyageintech.com)
-
-### Outreach:
+## Outreach
 
 * Member of the Industrial Advisory Board for Oregon Tech's Computer Systems Engineering Department.
 * Account administrator for the [official Haskell wiki](https://wiki.haskell.org/Haskell).
@@ -55,7 +65,7 @@ Machine Learning by Stanford University on Coursera with Andrew Ng (March 2016)
 * 2015 participation as a sponsor of the local [NASA Space Apps Challenge](https://spaceappsreno.org/) event.
 * Monthly participant of [DevOps Reno](https://www.meetup.com/devopsreno/) meetup group.
 
-## Language Experience
+## Language Experience Summary
 
 Accumulative experience working with languages across different industry (as in "production/released code") roles:
 
@@ -68,10 +78,8 @@ Accumulative experience working with languages across different industry (as in 
 * Python: 3 years of experience (primarily focused on machine learning/artificial intelligence).
 * JavaScript (AngularJS): 2 years of experience.
 * Databases (MS SQL, SQLite): 2 years of experience.
-* ASM: 6 months of experience.
-* Bluetooth Low Energy and ANT+ fitness devices: 1 year of experience.
-
-Non-professional experience with: Node JS, Docker, microcontrollers.
+* ASM (Assembler): 1 year of experience.
+* Bluetooth Low Energy and ANT+ fitness devices: 2 years of experience.
 
 ## Work Experience
 
@@ -146,7 +154,7 @@ I was the webmaster and lead developer for Oregon Tech's Computer Systems Engine
 * [CS-6476: Computer Vision](https://www.omscs.gatech.edu/cs-6476-computer-vision) with Dr. Irfan Essa (grade: A)
 * [CS-6475: Computational Photography](https://www.omscs.gatech.edu/cs-6475-computational-photography) with Dr. Irfan Essa (grade: B)
 
-Unfortunately, I'm unable to publicly share most of my work for these classes due to adherence to the university Honor Code, but please ask for demonstrations.
+Unfortunately, I'm unable to publicly share most of my work for these classes due to adherence to the university Honor Code, but please ask for demonstrations and discussion.
 
 #### Distributed Financial Analysis (Hobby Project) (2010 to 2013)
 
