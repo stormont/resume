@@ -2,21 +2,23 @@
 
 ### Devan Stormont
 
-| Contact | Social |
-| --- |:---:|
-| **Email:** [stormont@gmail.com](mailto:stormont@gmail.com) | [StackOverflow](https://careers.stackoverflow.com/stormont), [GitHub](https://github.com/stormont) |
-| _US residency (citizen)_ | [LinkedIn](https://www.linkedin.com/in/devan-stormont/), [Blog](https://voyageintech.com) |
+|  |  |  |
+| --- | --- |:---:|
+| **Email:** [stormont@gmail.com](mailto:stormont@gmail.com) |  | [GitHub](https://github.com/stormont) |
+| _US residency (citizen)_ |  | [LinkedIn](https://www.linkedin.com/in/devan-stormont/) |
+|  |  | [StackOverflow](https://careers.stackoverflow.com/stormont) |
+|  |  | [Personal Blog](https://voyageintech.com) |
 
 ## Highlights
 
 ### Experience
 
 * 13+ years professional experience, with small team lead/manager experience
-* M.S. in Computer Science, w/ Specialization in Machine Learning from Georgia Tech _(pending, December 2018)_
+* M.S. in Computer Science, w/ Specialization in Machine Learning from Georgia Tech _(pending)_
 * Industry advisory board member for Oregon Tech's computing department (CSET)
 * Prior lead developer for desktop application deployed to 10M+ computing systems
 * Self-released app with 10k+ users and consistently > 2x YoY revenue growth
-* Led intra-company learning development talks for 18 months
+* Led internal company learning development talks for 18 months
 
 ### Technical
 
@@ -25,12 +27,12 @@
 * OOP languages: C++, C#, Java
 * Distributed computing
 * Mobile development
-* BlueTooth and ANT+ device interoperability
+* BlueTooth and ANT+ device communication protocols
 * OS kernel-level development (C and Assembler)
 
 ## Education
 
-### [Georgia Institute of Technology](https://www.gatech.edu):
+### [Georgia Institute of Technology](https://www.gatech.edu) (Georgia Tech):
 
 Ongoing, expected graduation December 2018 (current GPA 3.62)
 
