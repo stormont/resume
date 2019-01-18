@@ -14,7 +14,7 @@
 ### Experience
 
 * 13+ years professional experience, with small team lead/manager experience
-* M.S. in Computer Science, w/ Specialization in Machine Learning from Georgia Tech _(pending)_
+* M.S. in Computer Science, w/ Specialization in Machine Learning from Georgia Tech
 * Industry advisory board member for Oregon Tech's computing department (CSET)
 * Prior lead developer for desktop application deployed to 10M+ computing systems
 * Self-released app with 10k+ users and consistently > 2x YoY revenue growth
@@ -34,7 +34,7 @@
 
 ### [Georgia Institute of Technology](https://www.gatech.edu) (Georgia Tech):
 
-Ongoing, expected graduation December 2018 (current GPA 3.62)
+Graduated December 2018 (overall GPA 3.6)
 
 #### Degrees:
 
@@ -73,7 +73,7 @@ Accumulative experience working with languages across different industry (as in 
 * C#: 8 years of experience.
 * C: 3 years of experience.
 * Java (Android): 3 years of experience.
-* Elm: 3 years of experience.
+* Elm: 4 years of experience.
 * Haskell: 3 years of experience.
 * Python: 3 years of experience (primarily focused on machine learning/artificial intelligence).
 * JavaScript (AngularJS): 2 years of experience.
@@ -83,9 +83,13 @@ Accumulative experience working with languages across different industry (as in 
 
 ## Work Experience
 
-#### Full-Time Graduate Student Studying Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (present)
+#### Full-Time Graduate Student Studying Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (2015-01 to 2018-12)
 
-I am presently a full-time graduate student at Georgia Tech, with an expected graduation date of December 2018 (please see the School Experience section for details). I voluntarily left my last job at Trainer Road to focus on completing the final year of my degree.
+I was a full-time graduate student at Georgia Tech and graduated in December 2018 (please see the School Experience section for details). My course work focused on AI and machine learning. I found a particular interest in reinforcement learning, but also worked with training self-driving vehicles, computer vision generation and recognition, and analysis of large health datasets (with one project exceeding what was then the state-of-the-art). Most of my projects were written in Python, using a variety of frameworks (OpenCV, PyTorch, Keras, TensorFlow).
+
+#### Research Fellow at [Hackmind](https://hackmind.ai/) (2018-01 to 2018-03)
+
+I was a research fellow at Hackmind, an incubator based in Berlin. I explored building my own AI company based out of Germany. I voluntarily chose to return to the United States, as I believed the investment environment to have more potential for launching a tech company.
 
 #### Senior Software Engineer at [Trainer Road](https://www.trainerroad.com) (2015-12 to 2018-01)
 
