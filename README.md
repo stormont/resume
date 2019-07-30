@@ -14,16 +14,16 @@
 ### Experience
 
 * 13+ years professional experience, with small team lead/manager experience
-* M.S. in Computer Science, w/ Specialization in Machine Learning from Georgia Tech
+* M.S. in Computer Science, w/ Specialization in Machine Learning from Georgia Tech _(pending)_
 * Industry advisory board member for Oregon Tech's computing department (CSET)
-* Prior lead developer for desktop application deployed to 10M+ computing systems
-* Self-released app with 10k+ users and consistently > 2x YoY revenue growth
+* Prior lead developer/engineering manager for desktop application deployed to 10M+ computing systems
+* Self-released app with 30k+ active users and consistently > 2x YoY revenue growth
 * Led internal company learning development talks for 18 months
 
 ### Technical
 
 * Machine learning (particularly reinforcement learning)
-* Functional languages: Elm, Haskell, Python
+* Functional languages: Elm, Haskell, Python, Ruby
 * OOP languages: C++, C#, Java
 * Distributed computing
 * Mobile development
@@ -34,7 +34,7 @@
 
 ### [Georgia Institute of Technology](https://www.gatech.edu) (Georgia Tech):
 
-Graduated December 2018 (overall GPA 3.6)
+Graduated December, 2018 (GPA 3.60)
 
 #### Degrees:
 
@@ -43,7 +43,7 @@ Graduated December 2018 (overall GPA 3.6)
 
 ### [Oregon Institute of Technology](https://www.oit.edu) (OIT, or Oregon Tech):
 
-Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
+Graduated June, 2007 Cum Laude (GPA 3.59)
 
 #### Degrees:
 
@@ -63,7 +63,6 @@ Graduated June, 2007 Cum Laude (overall GPA 3.59 over 220 credit hours)
 * Account administrator for the [official Haskell wiki](https://wiki.haskell.org/Haskell).
 * 2013, 2014 participation in the [NASA Space Apps Challenge](https://spaceappsreno.org/) (annual 48-hour hackathon).
 * 2015 participation as a sponsor of the local [NASA Space Apps Challenge](https://spaceappsreno.org/) event.
-* Monthly participant of [DevOps Reno](https://www.meetup.com/devopsreno/) meetup group.
 
 ## Language Experience Summary
 
@@ -73,9 +72,10 @@ Accumulative experience working with languages across different industry (as in 
 * C#: 8 years of experience.
 * C: 3 years of experience.
 * Java (Android): 3 years of experience.
-* Elm: 4 years of experience.
+* Elm: 3 years of experience.
 * Haskell: 3 years of experience.
 * Python: 3 years of experience (primarily focused on machine learning/artificial intelligence).
+* Ruby: 1 year of experience.
 * JavaScript (AngularJS): 2 years of experience.
 * Databases (MS SQL, SQLite): 2 years of experience.
 * ASM (Assembler): 1 year of experience.
@@ -83,13 +83,13 @@ Accumulative experience working with languages across different industry (as in 
 
 ## Work Experience
 
-#### Full-Time Graduate Student Studying Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (2015-01 to 2018-12)
+#### Machine Learning Engineer at [HubTran](https://www.hubtran.com)
 
-I was a full-time graduate student at Georgia Tech and graduated in December 2018 (please see the School Experience section for details). My course work focused on AI and machine learning. I found a particular interest in reinforcement learning, but also worked with training self-driving vehicles, computer vision generation and recognition, and analysis of large health datasets (with one project exceeding what was then the state-of-the-art). Most of my projects were written in Python, using a variety of frameworks (OpenCV, PyTorch, Keras, TensorFlow).
+I currently work as a machine learning engineer at HubTran. My role focuses on improving and optimizing invoice automation, extracting business intelligence from existing systems, and researching/building new data systems. Most of the environment is inside a Ruby on Rails app.
 
-#### Research Fellow at [Hackmind](https://hackmind.ai/) (2018-01 to 2018-03)
+#### Full-Time Graduate Student Studying Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (present)
 
-I was a research fellow at Hackmind, an incubator based in Berlin. I explored building my own AI company based out of Germany. I voluntarily chose to return to the United States, as I believed the investment environment to have more potential for launching a tech company.
+I was a full-time graduate student at Georgia Tech and graduated in December 2018 (please see the School Experience section for details).
 
 #### Senior Software Engineer at [Trainer Road](https://www.trainerroad.com) (2015-12 to 2018-01)
 
@@ -113,13 +113,13 @@ I kicked off and continued to lead a weekly training series to help developers e
 
 I was the technical team lead of our primary OEM bundle products at PC-Doctor. I was responsible for requirements planning, development, and was an active facilitator of communication. Product development on this team largely used C#. Our application was deployed to tens of millions of daily users to run hardware diagnostics, collect data, supported 'hot' updates, and was actively utilized for deploying updates to third-party software. My team was also responsible for running our internal build automation pipeline, primarily using Ant and Jenkins. We released a variety of products under PC-Doctor branding (Toolbox, Service Center, PC-Doctor for Windows), as well as products released under OEM branding. Active installs to maintain were numbered in the tens of millions.
 
-#### Developed Android app "Weather Route" at Voyage Studios LLC (2013-01 to present)
+#### Developed Android app "Highway Route" at Voyage Studios LLC (2013-01 to present)
 
-I created the Android app [Weather Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Studios LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The server backend on AWS is now written entirely in Haskell, while the front end is a Java Android client written around an Elm web app; the original iteration was written solely in Java on both the client and the server. The app currently has over 60,000 downloads and consistently averages greater than 200% annual revenue growth through three consecutive years.
+I created the mobile app [Highway Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Studios LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The backend utilizes multiple AWS services (EC2, S3, API Gateway, Lambda, DynamoDB, etc.), while the front end is a Java (Android)/Swift (iOS) client written around an Elm web app with a small AI component. The app currently has over 30,000 active users and consistently averages greater than 200% annual revenue growth through three consecutive years.
 
-An iOS version was launched in 2016 (named differently, due to a conflict in the App Store): [Highway Weather](https://itunes.apple.com/us/app/highway-weather/id1289520390?ls=1&mt=8)
+An iOS version was launched in 2016: [Highway Weather](https://itunes.apple.com/us/app/highway-weather/id1289520390?ls=1&mt=8)
 
-As part of this development, I released a simple [open-source package on Hackage](https://hackage.haskell.org/package/forecast-io) for interfacing with the third-party Forecast.io weather service.
+As part of this development, I released a simple [open-source package on Hackage](https://hackage.haskell.org/package/forecast-io) for interfacing with the third-party Forecast.io weather service. At one point, the server backend was written in Haskell, although that infrastructure has been deprecated.
 
 #### Software Engineer at [PC-Doctor, Inc.](https://www.pc-doctor.com) (2008-05 to 2013-05)
 
@@ -147,7 +147,7 @@ I was the webmaster and lead developer for Oregon Tech's Computer Systems Engine
 
 ## School/Hobby Experience
 
-#### Georgia Tech Specialization in Machine Learning (2016 to present)
+#### Georgia Tech Specialization in Machine Learning (2016-2018)
 
 * [CS-7641: Machine Learning](https://www.omscs.gatech.edu/cs-7641-machine-learning) with Dr. Charles Isbell and Dr. Michael Littman (grade: A)
 * [CS-7642: Reinforcement Learning](https://www.omscs.gatech.edu/cs-8803-special-topics-reinforcement-learning) with Dr. Charles Isbell and Dr. Michael Littman (grade: A)
@@ -157,6 +157,8 @@ I was the webmaster and lead developer for Oregon Tech's Computer Systems Engine
 * [CS-6750: Human-Computer Interaction](https://www.omscs.gatech.edu/cs-6750-human-computer-interaction) with Dr. David Joyner (grade: A)
 * [CS-6476: Computer Vision](https://www.omscs.gatech.edu/cs-6476-computer-vision) with Dr. Irfan Essa (grade: A)
 * [CS-6475: Computational Photography](https://www.omscs.gatech.edu/cs-6475-computational-photography) with Dr. Irfan Essa (grade: B)
+* [CS-8803: Graduate Algorithms](https://www.omscs.gatech.edu/cs-8803-ga-graduate-algorithms) (grade: B)
+* [CSE-6250: Big Data for Health](https://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics) (grade: A)
 
 Unfortunately, I'm unable to publicly share most of my work for these classes due to adherence to the university Honor Code, but please ask for demonstrations and discussion.
 
