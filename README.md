@@ -149,16 +149,23 @@ I was the webmaster and lead developer for Oregon Tech's Computer Systems Engine
 
 #### Georgia Tech Specialization in Machine Learning (2016-2018)
 
-* [CS-7641: Machine Learning](https://www.omscs.gatech.edu/cs-7641-machine-learning) with Dr. Charles Isbell and Dr. Michael Littman (grade: A)
-* [CS-7642: Reinforcement Learning](https://www.omscs.gatech.edu/cs-8803-special-topics-reinforcement-learning) with Dr. Charles Isbell and Dr. Michael Littman (grade: A)
-* [CS-7646: ML for Trading](https://www.omscs.gatech.edu/cs-7646-machine-learning-trading) with Dr. Tucker Balch (grade: B)
-* [CS-6601: Artificial Intelligence](https://www.omscs.gatech.edu/cs-6601-artificial-intelligence) with Dr. Thad Starner (grade: A)
-* [CS-8803: AI for Robotics](https://www.omscs.gatech.edu/cs-8803-artificial-intelligence-robotics) with Chris Pryby and Dr. Sebastian Thrun (grade: B)
-* [CS-6750: Human-Computer Interaction](https://www.omscs.gatech.edu/cs-6750-human-computer-interaction) with Dr. David Joyner (grade: A)
-* [CS-6476: Computer Vision](https://www.omscs.gatech.edu/cs-6476-computer-vision) with Dr. Irfan Essa (grade: A)
-* [CS-6475: Computational Photography](https://www.omscs.gatech.edu/cs-6475-computational-photography) with Dr. Irfan Essa (grade: B)
-* [CS-8803: Graduate Algorithms](https://www.omscs.gatech.edu/cs-8803-ga-graduate-algorithms) (grade: B)
-* [CSE-6250: Big Data for Health](https://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics) (grade: A)
+* [CS-7641: Machine Learning](https://www.omscs.gatech.edu/cs-7641-machine-learning) with Dr. Charles Isbell and Dr. Michael Littman
+* [CS-7642: Reinforcement Learning](https://www.omscs.gatech.edu/cs-8803-special-topics-reinforcement-learning) with Dr. Charles Isbell and Dr. Michael Littman
+* [CS-7646: ML for Trading](https://www.omscs.gatech.edu/cs-7646-machine-learning-trading) with Dr. Tucker Balch
+* [CS-6601: Artificial Intelligence](https://www.omscs.gatech.edu/cs-6601-artificial-intelligence) with Dr. Thad Starner
+* [CS-8803: AI for Robotics](https://www.omscs.gatech.edu/cs-8803-artificial-intelligence-robotics) with Chris Pryby and Dr. Sebastian Thrun
+* [CS-6750: Human-Computer Interaction](https://www.omscs.gatech.edu/cs-6750-human-computer-interaction) with Dr. David Joyner
+* [CS-6476: Computer Vision](https://www.omscs.gatech.edu/cs-6476-computer-vision) with Dr. Irfan Essa
+* [CS-6475: Computational Photography](https://www.omscs.gatech.edu/cs-6475-computational-photography) with Dr. Irfan Essa
+* [CS-8803: Graduate Algorithms](https://www.omscs.gatech.edu/cs-8803-ga-graduate-algorithms)
+* [CSE-6250: Big Data for Health](https://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics)
+
+As part of these courses, I completed numerous ML projects:
+- Beat the state-of-the-art for predicting unexpected health clinic readmissions on the MIMIC-III database.
+- Worked on image recognition and object tracking in multiple scenarios.
+- Designed SLAM guidance for a self-driving vehicle.
+- Built financial portfolios for an imaginary hedge fund.
+- Built reinforcement learning systems for multi-player game theory scenarios.
 
 Unfortunately, I'm unable to publicly share most of my work for these classes due to adherence to the university Honor Code, but please ask for demonstrations and discussion.
 
