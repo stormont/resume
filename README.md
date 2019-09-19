@@ -25,8 +25,8 @@
 * Machine learning (particularly reinforcement learning)
 * Functional languages: Elm, Haskell, Python, Ruby
 * OOP languages: C++, C#, Java
-* Distributed computing
-* Mobile development
+* Distributed computing: AWS, Spark, Hive
+* Mobile development: iOS, Android
 * BlueTooth and ANT+ device communication protocols
 * OS kernel-level development (C and Assembler)
 
