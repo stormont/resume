@@ -119,9 +119,9 @@ I kicked off and continued to lead a weekly training series to help developers e
 
 I was the technical team lead of our primary OEM bundle products at PC-Doctor. I was responsible for requirements planning, development, and was an active facilitator of communication. Product development on this team largely used C#. Our application was deployed to tens of millions of daily users to run hardware diagnostics, collect data, supported 'hot' updates, and was actively utilized for deploying updates to third-party software. My team was also responsible for running our internal build automation pipeline, primarily using Ant and Jenkins. We released a variety of products under PC-Doctor branding (Toolbox, Service Center, PC-Doctor for Windows), as well as products released under OEM branding. Active installs to maintain were numbered in the tens of millions.
 
-#### Developed Android app "Highway Route" at Voyage Studios LLC (2013-01 to present)
+#### Creator of "Highway Route" app (2013-01 to present)
 
-I created the mobile app [Highway Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Studios LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The backend utilizes multiple AWS services (EC2, S3, API Gateway, Lambda, DynamoDB, etc.), while the front end is a Java (Android)/Swift (iOS) client written around an Elm web app with a small AI component. The app currently has over 30,000 active users and consistently averages greater than 200% annual revenue growth through three consecutive years.
+I created the mobile app [Highway Route](https://play.google.com/store/apps/details?id=com.voyagegames.weatherroute) (under the self-licensed moniker Voyage Studios LLC), which provides side-by-side forecasts for travelers along the full extent of their trip. The backend utilizes multiple AWS services (EC2, S3, API Gateway, Lambda, DynamoDB, etc.), while the front end is a Java (Android)/Swift (iOS) client written around an Elm web app with a small AI component. The app currently has over 30,000 active users (all organically grown) and consistently averages greater than 300% annual revenue growth.
 
 An iOS version was launched in 2016: [Highway Weather](https://itunes.apple.com/us/app/highway-weather/id1289520390?ls=1&mt=8)
 
