@@ -59,7 +59,7 @@ Graduated June, 2007 Cum Laude (GPA 3.59)
 
 ## Outreach
 
-* Member of the Industrial Advisory Board for Oregon Tech's Computer Systems Engineering Department.
+* Member of the Industrial Advisory Board for Oregon Tech's [Computer Systems Engineering Department](https://www.oit.edu/academics/engineering-technology-management/cset).
 * Account administrator for the [official Haskell wiki](https://wiki.haskell.org/Haskell).
 * 2013, 2014 participation in the [NASA Space Apps Challenge](https://spaceappsreno.org/) (annual 48-hour hackathon).
 * 2015 participation as a sponsor of the local [NASA Space Apps Challenge](https://spaceappsreno.org/) event.
