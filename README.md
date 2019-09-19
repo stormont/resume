@@ -27,8 +27,10 @@
 * OOP languages: C++, C#, Java
 * Distributed computing: AWS, Spark, Hive
 * Mobile development: iOS, Android
+* Front-end: Angular, Elm, Xamarin
 * BlueTooth and ANT+ device communication protocols
 * OS kernel-level development (C and Assembler)
+* _Experience not limited to the highlights above_
 
 ## Education
 
@@ -87,9 +89,13 @@ Accumulative experience working with languages across different industry (as in 
 
 I currently work as a machine learning engineer at HubTran. My role focuses on improving and optimizing invoice automation, extracting business intelligence from existing systems, and researching/building new data systems. Most of the environment is inside a Ruby on Rails app.
 
-#### Full-Time Graduate Student Studying Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (present)
+#### Full-Time Graduate Student Studying Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (2015-09 to 2018-12)
 
 I was a full-time graduate student at Georgia Tech and graduated in December 2018 (please see the School Experience section for details).
+
+#### Research Fellow at [HackMind](https://hackmind.ai) (2018-01 to 2018-03)
+
+I was a fellow in the initial class at HackMind, a startup incubator in Berlin, Germany. The goal was to create a startup to solve a "moonshot" problem. I gained exposure to the European venture capital environment and startup development, but did not end up forming a company.
 
 #### Senior Software Engineer at [Trainer Road](https://www.trainerroad.com) (2015-12 to 2018-01)
 
