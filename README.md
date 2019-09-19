@@ -16,8 +16,8 @@
 * 13+ years professional experience, with small team lead/manager experience
 * M.S. in Computer Science, w/ Specialization in Machine Learning from Georgia Tech
 * Industry advisory board member for Oregon Tech's computing department (CSET)
-* Prior lead developer/engineering manager for desktop application deployed to 10M+ computing systems
-* Self-released app with 30k+ active users and consistently > 2x YoY revenue growth
+* Lead developer/engineering manager for desktop application deployed to 10M+ computing systems
+* Self-released app with 30k+ active organically grown users and consistent > 300% YoY revenue growth
 * Led internal company learning development talks for 18 months
 
 ### Technical
