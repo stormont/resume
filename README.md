@@ -83,7 +83,7 @@ Accumulative experience working with languages across different industry (as in 
 
 ## Work Experience
 
-#### Machine Learning Engineer at [HubTran](https://www.hubtran.com)
+#### Machine Learning Engineer at [HubTran](https://www.hubtran.com) (2018-12 to present)
 
 I currently work as a machine learning engineer at HubTran. My role focuses on improving and optimizing invoice automation, extracting business intelligence from existing systems, and researching/building new data systems. Most of the environment is inside a Ruby on Rails app.
 
