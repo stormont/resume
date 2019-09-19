@@ -163,8 +163,8 @@ I was the webmaster and lead developer for Oregon Tech's Computer Systems Engine
 * [CS-6750: Human-Computer Interaction](https://www.omscs.gatech.edu/cs-6750-human-computer-interaction) with Dr. David Joyner
 * [CS-6476: Computer Vision](https://www.omscs.gatech.edu/cs-6476-computer-vision) with Dr. Irfan Essa
 * [CS-6475: Computational Photography](https://www.omscs.gatech.edu/cs-6475-computational-photography) with Dr. Irfan Essa
-* [CS-8803: Graduate Algorithms](https://www.omscs.gatech.edu/cs-8803-ga-graduate-algorithms)
-* [CSE-6250: Big Data for Health](https://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics)
+* [CS-8803: Graduate Algorithms](https://www.omscs.gatech.edu/cs-8803-ga-graduate-algorithms) with Gerandy Brito
+* [CSE-6250: Big Data for Health](https://www.omscs.gatech.edu/cse-8803-special-topics-big-data-for-health-informatics) with Jimeng Sun
 
 As part of these courses, I completed numerous ML projects:
 - Beat the state-of-the-art for predicting unexpected health clinic readmissions on the MIMIC-III database.
