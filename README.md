@@ -87,7 +87,7 @@ Accumulative experience working with languages across different industry (as in 
 
 I currently work as a machine learning engineer at HubTran. My role focuses on improving and optimizing invoice automation, extracting business intelligence from existing systems, and researching/building new data systems. Most of the environment is inside a Ruby on Rails app.
 
-#### Full-Time Graduate Student Studying Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (2015-09 to 2018-12)
+#### Graduate Student in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (2015-09 to 2018-12)
 
 I was a full-time graduate student at Georgia Tech and graduated in December 2018 (please see the School Experience section for details).
 
