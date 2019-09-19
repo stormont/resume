@@ -1,6 +1,4 @@
-# Resume
-
-### Devan Stormont
+# Devan Stormont
 
 |  |  |  |
 | --- | --- |:---:|
