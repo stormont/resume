@@ -7,7 +7,7 @@
 | **Email:** [stormont@gmail.com](mailto:stormont@gmail.com) |  | [GitHub](https://github.com/stormont) |
 | _US residency (citizen)_ |  | [LinkedIn](https://www.linkedin.com/in/devan-stormont/) |
 |  |  | [StackOverflow](https://careers.stackoverflow.com/stormont) |
-|  |  | [Personal Blog](https://voyageintech.com) |
+|  |  |  |
 
 ## Highlights
 
