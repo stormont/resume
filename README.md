@@ -20,7 +20,7 @@
 
 ### Technical
 
-* Machine learning (particularly reinforcement learning)
+* Machine learning: PyTorch, TensorFlow, NLP, CV, RL
 * Functional languages: Elm, Haskell, Python, Ruby
 * OOP languages: C++, C#, Java
 * Distributed computing: AWS, Spark, Hive
