@@ -83,9 +83,9 @@ Accumulative experience working with languages across different industry (as in 
 
 ## Work Experience
 
-#### Machine Learning Engineer at [HubTran](https://www.hubtran.com) (2018-12 to present)
+#### Machine Learning Engineer at [HubTran](https://www.hubtran.com) (2018-12 to 2019-09)
 
-I currently work as a machine learning engineer at HubTran. My role focuses on improving and optimizing invoice automation, extracting business intelligence from existing systems, and researching/building new data systems. Most of the environment is inside a Ruby on Rails app.
+I worked as a machine learning engineer at HubTran. My role focused on improving and optimizing invoice automation, extracting business intelligence from existing systems, and researching/building new data systems. Most of the environment was inside a Ruby on Rails app.
 
 #### Graduate Student in Computer Science at the [Georgia Institute of Technology](https://www.gatech.edu) (2015-09 to 2018-12)
 
